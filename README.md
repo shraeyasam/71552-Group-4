@@ -25,7 +25,7 @@ Tickets provide details on seat numbers, prices, and types. They link back to th
 
 # Data Dictionary
 
-!![Data_Dictionary](https://github.com/user-attachments/assets/0f1cdb1d-977d-42df-adad-5756d9a8176d)
+![Data_Dictionary](https://github.com/shraeyasam/71552-Group-4/blob/2c1579ceadd10e02276314df81bd33cb605ebb74/group_2.png)
 
 
 
