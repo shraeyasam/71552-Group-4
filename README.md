@@ -72,7 +72,6 @@ This query selects the name and position of players from a specific team. You ca
 
 ![query7](https://github.com/shraeyasam/71552-Group-4/blob/56264f9c6f33c6fd2da703a7e1938fe28ce3fb7b/group_10.png)
 
-
 This query finds the head coach for each team by connecting the team and head_coach tables using the coach_id. It shows the team name along with the coach’s first and last name. This is useful for managers because it helps them quickly see who is leading each team. Knowing the head coach for every team makes it easier to track performance, make coaching decisions, and improve communication within the organization. It also helps in planning training, hiring new coaches, or making changes if needed.
 
 
