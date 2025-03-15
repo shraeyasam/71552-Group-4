@@ -89,9 +89,9 @@ The information in this query displays the game ID, the date of the game, the sc
 
 **Highest Revenue Games by Ticket Sales**
 
-![query10](https://github.com/shraeyasam/71552-Group-4/blob/56264f9c6f33c6fd2da703a7e1938fe28ce3fb7b/group_13.png)
+![query10](https://github.com/shraeyasam/71552-Group-4/blob/566a4225b7bd57b0faaedf7e1ad6d91100f5a20f/group_15.png)
 
-This query retrieves the game ID, date, winning team, stadium city, and total revenue generated from ticket sales for each game, ordering the results by total revenue in descending order. This would be important for the NFL because it helps identify the most profitable games, which could provide insights into factors that drive higher ticket sales. League officials, team owners, and marketers could use this information to analyze trends, such as which teams attract the most fans, which stadiums generate the most revenue, and which games are in the highest demand. This data could influence future scheduling decisions, ticket pricing strategies, and marketing efforts to maximize revenue. Additionally, it could help determine ideal locations for high-profile events like playoff games and the Super Bowl, ensuring the league maximizes profitability and fan engagement.
+This query displays the name and tenure of head coaches who have a tenure that is longer than the average of all head coaches. For the league manager this information can be very useful in judging coach performance, conducting investigation into questionable team/coach relationships, deciding who to award (ex. Coach of the Year), and determining which coaches should be marketed more in a way that boosts revenue and engagement with football fans.
 
 ## Database information:
 ![Queries](https://github.com/shraeyasam/71552-Group-4/blob/a4c680db2c2453c8ae7c42039e936b76a8850258/group_14.png)
